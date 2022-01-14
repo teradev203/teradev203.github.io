@@ -1,2 +1,0 @@
-(this["webpackJsonp@scaffold-eth/react-app"]=this["webpackJsonp@scaffold-eth/react-app"]||[]).push([[10],{1065:function(s,p){s.exports={messages:{}}}}]);
-//# sourceMappingURL=tr-messages.3ddb86c9.chunk.js.map
