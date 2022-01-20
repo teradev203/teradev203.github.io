@@ -14043,6 +14043,10 @@
 		transform: translate(16.031px, 4.272px) matrix(1,0,0,1,5.5301,10.2577) rotate(-3deg);
 		transform-origin: center;
 	}
+	.Rectangle_310:hover {
+		opacity: 1;
+		background: #dacb5e;
+	}
 	#Rectangle_311 {
 		fill: transparent;
 		stroke: rgba(249,237,50,1);
@@ -14059,6 +14063,10 @@
 		overflow: visible;
 		transform: translate(16.031px, 4.272px) matrix(1,0,0,1,1.7463,14.5131) rotate(-3deg);
 		transform-origin: center;
+	}	
+	.Rectangle_311:hover {
+		opacity: 1;
+		background: #dacb5e;
 	}
 	#Group_362 {
 		transform: translate(16.031px, 4.272px) matrix(1,0,0,1,363.8422,16.7515) rotate(-3deg);
@@ -17500,6 +17508,11 @@
 	#Path_194 {
 		fill: rgba(170,211,247,1);
 	}
+	.Path_228:hover{
+		/* fill: rgba(170,211,247,1); */
+		opacity: 1;
+		background: url("./Group_228_hover.png");
+	}
 	.Path_194 {
 		mix-blend-mode: color;
 		overflow: visible;
@@ -17579,6 +17592,7 @@
 		transform-origin: center;
 		left: 0px;
 		top: 0px;
+		opacity: 1;
 	}
 	#Rectangle_328 {
 		fill: rgba(249,237,50,1);
@@ -17914,6 +17928,10 @@
 		left: 0px;
 		top: 6px;
 	}
+	.Apply_here_button:hover {
+		opacity: 1;
+		background: #dacb5e;
+	}
 	#Group_341_bcj {
 		position: absolute;
 		width: 33.247px;
@@ -18243,10 +18261,14 @@
 		top: 0px;
 	}
 	.Rectangle_199:hover {
-		width: 298px;
-		height: 56px;
 		opacity: 1;
 		background: #dacb5e;
+  		animation: mymove_for_Rectangle_199 0.3s;
+		animation-timing-function: ease-out;
+	}
+	@keyframes mymove_for_Rectangle_199 {
+		from {width: 0px;}
+		to {width: 297.875px;}
 	}
 	#Rectangle_30 {
 		opacity: 0.18;
@@ -18356,7 +18378,18 @@
 		height: 56.106px;
 		left: 0px;
 		top: 0px;
+	}	
+	.Rectangle_199_bdm:hover {
+		opacity: 1;
+		background: #dacb5e;
+  		animation: mymove_for_Rectangle_199_bdm 0.3s;
+		animation-timing-function: ease-out;
 	}
+	@keyframes mymove_for_Rectangle_199_bdm {
+		from {width: 0px;}
+		to {width: 297.875px;}
+	}
+
 	#Rectangle_30_bdn {
 		opacity: 0.18;
 		fill: rgba(255,255,255,1);
@@ -18566,6 +18599,16 @@
 		left: 0px;
 		top: 0px;
 	}
+	.Rectangle_199_bd:hover {
+		opacity: 1;
+		background: #dacb5e;
+  		animation: mymove_for_Rectangle_199_bd 0.3s;
+		animation-timing-function: ease-out;
+	}
+	@keyframes mymove_for_Rectangle_199_bd {
+		from {width: 0px;}
+		to {width: 297.875px;}
+	}
 	#Apply_for_IDO {
 		left: 106.814px;
 		top: 18.053px;
@@ -18681,6 +18724,16 @@
 		left: 0px;
 		top: 0px;
 	}
+	.Rectangle_199_bec:hover {
+		opacity: 1;
+		background: #dacb5e;
+  		animation: mymove_for_Rectangle_199_bec 0.3s;
+		animation-timing-function: ease-out;
+	}
+	@keyframes mymove_for_Rectangle_199_bec {
+		from {width: 0px;}
+		to {width: 297.875px;}
+	}
 	#Apply_for_IGO {
 		left: 106.814px;
 		top: 18.053px;
@@ -18749,6 +18802,15 @@
 		top: 0px;
 		transform: matrix(1,0,0,1,0,0);
 	}
+	.circletwitter_bei:hover{
+		height: 48px;
+		width: 48px;
+		color: #dacb5e;
+		fill: rgba(238, 222, 82, 1);
+	}
+	#circletwitter_bei:hover{
+		fill: rgba(238, 222, 82, 1);
+	}
 	#telegram {
 		position: absolute;
 		width: 37.235px;
@@ -18769,6 +18831,15 @@
 		top: 0px;
 		transform: matrix(1,0,0,1,0,0);
 	}
+	.telegram_bek:hover{
+		height: 48px;
+		width: 48px;
+		color: #dacb5e;
+		fill: rgba(238, 222, 82, 1);
+	}
+	#telegram_bek:hover{
+		fill: rgba(238, 222, 82, 1);
+	}
 	#Connect_wallet {
 		mix-blend-mode: normal;
 		position: absolute;
@@ -18778,8 +18849,30 @@
 		top: 51px;
 		overflow: visible;
 	}
-	#Rectangle_82 {
-		fill: rgba(255,255,255,0.051);
+	#Rectangle_82, #Rectangle_821 {
+		fill: rgba(255,255,255, 0.051);
+	}
+	#Rectangle_82:hover, .Rectangle_82:hover, #Rectangle_821:hover, .Rectangle_821:hover
+	{
+		fill: rgba(236, 221, 83 , 1);
+		animation: mymove_for_Rectangle_82 0.3s;
+		animation-timing-function: ease-out;
+	}
+	@keyframes mymove_for_Rectangle_82 {
+		from {
+			fill: rgba(236, 221, 83 , 1);
+		}
+		to {
+			fill: rgba(255,255,255, 0.051);
+		}
+	}
+	.Rectangle_821 {
+		position: absolute;
+		overflow: visible;
+		width: 170px;
+		height: 47px;
+		left: 0px;
+		top: 0px;
 	}
 	.Rectangle_82 {
 		position: absolute;
@@ -18855,6 +18948,10 @@
 		left: 1412.249px;
 		top: 51px;
 		overflow: visible;
+	}
+	#Connect_wallet_bes:hover{
+		opacity: 0.8;
+		background: #dacb5e;
 	}
 	#Rectangle_327_bet {
 		opacity: 0;
@@ -25877,9 +25974,9 @@ window.application = new Application();
 			</div>
 		</div>
 	</div>
-	<div id="Able_to_sustain_more_than_300_">
+	<!-- <div id="Able_to_sustain_more_than_300_">
 		<span>Able to sustain more than 300 transactions per second (tps), supporting smart contracts written in multiple languages, and providing a powerful opportunity for cross-chain interactions,</span><span style="font-style:normal;font-weight:normal;"> Metapad is uniquely positioned to host the mass market blockchain-powered applications the virtual world needs.</span>
-	</div>
+	</div> -->
 	<svg class="Ellipse_29_wq">
 		<radialGradient id="Ellipse_29_wq" spreadMethod="pad" x1="0" x2="0" y1="0" y2="0">
 			<stop offset="0" stop-color="#f6fce0" stop-opacity="1"></stop>
@@ -26918,17 +27015,17 @@ window.application = new Application();
 			</rect>
 		</svg>
 		<svg class="Rectangle_311">
-			<rect id="Rectangle_311" rx="0" ry="0" x="0" y="0" width="392" height="77">
+			<rect id="Rectangle_311" rx="0" ry="0" x="0" y="0" width="392" height="77">				
+				<div style="transform:translate(16.031px, 4.272px) matrix(1,0,0,1,363.8422,16.7515) rotate(-3deg);transform-origin:center;position:absolute;width:22.474px;height:25.349px;left:0px;top:0px;overflow:visible;" id="Group_362">
+					<img style="width:19.843px;height:24.665px;left:0px;top:0px;overflow:visible;" id="Group_340" src="Group_340.png" srcset="Group_340.png 1x, Group_340@2x.png 2x">
+						
+					</svg>
+				</div>
+				<div id="launchpad">
+					<span>launchpad</span>
+				</div>
 			</rect>
 		</svg>
-		<div style="transform:translate(16.031px, 4.272px) matrix(1,0,0,1,363.8422,16.7515) rotate(-3deg);transform-origin:center;position:absolute;width:22.474px;height:25.349px;left:0px;top:0px;overflow:visible;" id="Group_362">
-			<img style="position:absolute;width:19.843px;height:24.665px;left:0px;top:0px;overflow:visible;" id="Group_340" src="Group_340.png" srcset="Group_340.png 1x, Group_340@2x.png 2x">
-				
-			</svg>
-		</div>
-		<div id="launchpad">
-			<span>launchpad</span>
-		</div>
 	</div>
 	<div id="n_1">
 		<span>01</span>
@@ -28082,7 +28179,7 @@ window.application = new Application();
 		<path id="Line_4" d="M 0 9 L 635 0">
 		</path>
 	</svg>
-	<div style="position:absolute;width:1986.41px;height:6545.954px;left:-31.557px;top:10028.316px;overflow:visible;" id="TExtura_szum">
+	<!-- <div style="position:absolute;width:1986.41px;height:6545.954px;left:-31.557px;top:10028.316px;overflow:visible;" id="TExtura_szum">
 		<img style="mix-blend-mode:screen;position:absolute;width:1986.41px;height:1146.5px;left:0px;top:0px;overflow:visible;" id="Obszar_roboczy_5" src="Obszar_roboczy_5.png" srcset="Obszar_roboczy_5.png 1x, Obszar_roboczy_5@2x.png 2x">
 			
 		<img style="mix-blend-mode:screen;position:absolute;width:1986.41px;height:1146.5px;left:0px;top:1079.863px;overflow:visible;" id="Obszar_roboczy_5_bcq" src="Obszar_roboczy_5_bcq.png" srcset="Obszar_roboczy_5_bcq.png 1x, Obszar_roboczy_5_bcq@2x.png 2x">
@@ -28123,7 +28220,7 @@ window.application = new Application();
 			
 		<img style="mix-blend-mode:screen;position:absolute;width:1986.41px;height:1146.5px;left:0px;top:5399.454px;overflow:visible;" id="Obszar_roboczy_5_bdg" src="Obszar_roboczy_5_bdg.png" srcset="Obszar_roboczy_5_bdg.png 1x, Obszar_roboczy_5_bdg@2x.png 2x">
 			
-	</div>
+	</div> -->
 	<div style="position:absolute;width:297.875px;height:56.106px;left:343px;top:757.898px;overflow:visible;" id="Buy_on_Pancake_Swap" class="Buy_on_Pancake_Swap">
 		<svg class="Rectangle_326">
 			<rect id="Rectangle_326" rx="0" ry="0" x="0" y="0" width="8.187" height="56.106">
@@ -28139,10 +28236,10 @@ window.application = new Application();
 		</svg>
 		<svg class="Rectangle_199">
 			<rect id="Rectangle_199" rx="0" ry="0" x="0" y="0" width="297.875" height="56.106">						
-				<div id="Buy_on_Pancake_Swap_bdf">
+				<div id="Buy_on_Pancake_Swap_bdf" >
 					<span>Buy on Pancake Swap</span>
 				</div>
-				<div style="width:26.196px;height:26.444px;left:17.429px;top:14.831px;overflow:visible;" id="Group_416">
+				<div style="width:26.196px;height:26.444px;left:17.429px;top:14.831px;overflow:visible;" class="Rectangle_199" id="Group_416">
 					<img style="width:26.196px;height:26.444px;left:0px;top:0px;overflow:visible;" id="Group_415" src="Group_415.png" srcset="Group_415.png 1x, Group_415@2x.png 2x">
 						
 					</svg>
@@ -28293,7 +28390,7 @@ window.application = new Application();
 	</div>
 	<div style="mix-blend-mode:normal;position:absolute;width:235px;height:47px;left:1565px;top:51px;overflow:visible;" id="Connect_wallet" class="Connect_wallet">
 		<svg class="Rectangle_82">
-			<rect id="Rectangle_82" rx="23.5" ry="23.5" x="0" y="0" width="235" height="47">
+			<rect id="Rectangle_82" rx="23.5" ry="23.5" x="0" y="0" width="235" height="47">				
 			</rect>
 		</svg>
 		<svg class="Rectangle_327">
@@ -28315,6 +28412,10 @@ window.application = new Application();
 		</div>
 	</div>
 	<div style="mix-blend-mode:normal;position:absolute;width:119.751px;height:47px;left:1412.249px;top:51px;overflow:visible;" id="Connect_wallet_bes" class="Connect_wallet">
+		<svg class="Rectangle_821">
+			<rect id="Rectangle_821" rx="23.5" ry="23.5" x="-30" y="0" width="170" height="47">				
+			</rect>
+		</svg>
 		<svg class="Rectangle_327_bet">
 			<rect id="Rectangle_327_bet" rx="0.5" ry="0.5" x="0" y="0" width="1" height="47">
 			</rect>
