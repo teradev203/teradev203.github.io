@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.c5c33d65.chunk.css",
-    "main.js": "/static/js/main.beded645.chunk.js",
-    "main.js.map": "/static/js/main.beded645.chunk.js.map",
+    "main.js": "/static/js/main.57222244.chunk.js",
+    "main.js.map": "/static/js/main.57222244.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.08829427.js",
     "runtime-main.js.map": "/static/js/runtime-main.08829427.js.map",
-    "static/js/2.9bfa494d.chunk.js": "/static/js/2.9bfa494d.chunk.js",
-    "static/js/2.9bfa494d.chunk.js.map": "/static/js/2.9bfa494d.chunk.js.map",
+    "static/js/2.12ca1684.chunk.js": "/static/js/2.12ca1684.chunk.js",
+    "static/js/2.12ca1684.chunk.js.map": "/static/js/2.12ca1684.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.c5c33d65.chunk.css.map": "/static/css/main.c5c33d65.chunk.css.map",
-    "static/js/2.9bfa494d.chunk.js.LICENSE.txt": "/static/js/2.9bfa494d.chunk.js.LICENSE.txt",
+    "static/js/2.12ca1684.chunk.js.LICENSE.txt": "/static/js/2.12ca1684.chunk.js.LICENSE.txt",
     "static/media/presale.scss": "/static/media/33-together-spritesheet.158b1a33.png",
     "static/media/33-together.628fce8d.svg": "/static/media/33-together.628fce8d.svg",
     "static/media/DAI.253a4d84.svg": "/static/media/DAI.253a4d84.svg",
@@ -66,8 +66,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.08829427.js",
-    "static/js/2.9bfa494d.chunk.js",
+    "static/js/2.12ca1684.chunk.js",
     "static/css/main.c5c33d65.chunk.css",
-    "static/js/main.beded645.chunk.js"
+    "static/js/main.57222244.chunk.js"
   ]
 }
