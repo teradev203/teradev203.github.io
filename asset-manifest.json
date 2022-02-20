@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c5c33d65.chunk.css",
-    "main.js": "/static/js/main.ae514cea.chunk.js",
-    "main.js.map": "/static/js/main.ae514cea.chunk.js.map",
+    "main.js": "/static/js/main.ddec8c68.chunk.js",
+    "main.js.map": "/static/js/main.ddec8c68.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.08829427.js",
     "runtime-main.js.map": "/static/js/runtime-main.08829427.js.map",
     "static/js/2.9bfa494d.chunk.js": "/static/js/2.9bfa494d.chunk.js",
@@ -38,8 +38,8 @@
     "static/media/github.a58b50c7.svg": "/static/media/github.a58b50c7.svg",
     "static/media/governance.b3b4d137.svg": "/static/media/governance.b3b4d137.svg",
     "static/media/hamburger.01f8f3fa.svg": "/static/media/hamburger.01f8f3fa.svg",
-    "static/media/iconpid.7669bf36.png": "/static/media/iconpid.7669bf36.png",
-    "static/media/iconspid.80f93b00.png": "/static/media/iconspid.80f93b00.png",
+    "static/media/iconpid.8c89fdc5.png": "/static/media/iconpid.8c89fdc5.png",
+    "static/media/iconspid.8c89fdc5.png": "/static/media/iconspid.8c89fdc5.png",
     "static/media/info-fill.fbe44a30.svg": "/static/media/info-fill.fbe44a30.svg",
     "static/media/info.b59033d9.svg": "/static/media/info.b59033d9.svg",
     "static/media/logo.5e02a71f.png": "/static/media/logo.5e02a71f.png",
@@ -49,9 +49,9 @@
     "static/media/moon.7ecafede.svg": "/static/media/moon.7ecafede.svg",
     "static/media/new-icon.6f9c347d.svg": "/static/media/new-icon.6f9c347d.svg",
     "static/media/olympus-nav-header.1aaa44c1.svg": "/static/media/olympus-nav-header.1aaa44c1.svg",
-    "static/media/olympus-nav-header.7d008d73.png": "/static/media/olympus-nav-header.7d008d73.png",
+    "static/media/olympus-nav-header.65dd113a.png": "/static/media/olympus-nav-header.65dd113a.png",
     "static/media/pd.a39688d2.png": "/static/media/pd.a39688d2.png",
-    "static/media/pid.80f93b00.png": "/static/media/pid.80f93b00.png",
+    "static/media/pid.8c89fdc5.png": "/static/media/pid.8c89fdc5.png",
     "static/media/settings.921c401e.svg": "/static/media/settings.921c401e.svg",
     "static/media/stake.3cfb0455.svg": "/static/media/stake.3cfb0455.svg",
     "static/media/sun.7a12c180.svg": "/static/media/sun.7a12c180.svg",
@@ -68,6 +68,6 @@
     "static/js/runtime-main.08829427.js",
     "static/js/2.9bfa494d.chunk.js",
     "static/css/main.c5c33d65.chunk.css",
-    "static/js/main.ae514cea.chunk.js"
+    "static/js/main.ddec8c68.chunk.js"
   ]
 }
