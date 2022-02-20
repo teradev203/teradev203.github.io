@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c5c33d65.chunk.css",
-    "main.js": "/static/js/main.fa617f9b.chunk.js",
-    "main.js.map": "/static/js/main.fa617f9b.chunk.js.map",
+    "main.js": "/static/js/main.beded645.chunk.js",
+    "main.js.map": "/static/js/main.beded645.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.08829427.js",
     "runtime-main.js.map": "/static/js/runtime-main.08829427.js.map",
     "static/js/2.9bfa494d.chunk.js": "/static/js/2.9bfa494d.chunk.js",
@@ -52,7 +52,7 @@
     "static/media/olympus-nav-header.65dd113a.png": "/static/media/olympus-nav-header.65dd113a.png",
     "static/media/pd.a39688d2.png": "/static/media/pd.a39688d2.png",
     "static/media/pid.8c89fdc5.png": "/static/media/pid.8c89fdc5.png",
-    "static/media/settings.921c401e.svg": "/static/media/settings.921c401e.svg",
+    "static/media/settings.d61b982e.svg": "/static/media/settings.d61b982e.svg",
     "static/media/stake.3cfb0455.svg": "/static/media/stake.3cfb0455.svg",
     "static/media/sun.7a12c180.svg": "/static/media/sun.7a12c180.svg",
     "static/media/token_OHM.e6ccc6a2.svg": "/static/media/token_OHM.e6ccc6a2.svg",
@@ -68,6 +68,6 @@
     "static/js/runtime-main.08829427.js",
     "static/js/2.9bfa494d.chunk.js",
     "static/css/main.c5c33d65.chunk.css",
-    "static/js/main.fa617f9b.chunk.js"
+    "static/js/main.beded645.chunk.js"
   ]
 }
